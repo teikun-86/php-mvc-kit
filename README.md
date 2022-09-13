@@ -3,7 +3,7 @@
 ### Instalation
 1. Clone this repository
    ```bash
-   git clone https://github.com/azizsama/php-mvc-kit
+   git clone https://github.com/teikun-86/php-mvc-kit
    ```
 2. Happy Coding
 
